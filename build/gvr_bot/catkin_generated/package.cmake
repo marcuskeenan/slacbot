@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "gvr_bot")
+set(gvr_bot_MAINTAINER "Christopher Korpela <Christopher.Korpela@usma.edu>")
+set(gvr_bot_DEPRECATED "")
+set(gvr_bot_VERSION "0.0.0")
+set(gvr_bot_BUILD_DEPENDS "roscpp" "rospy" "geometry_msgs" "nav_msgs")
+set(gvr_bot_RUN_DEPENDS "roscpp" "rospy" "geometry_msgs" "nav_msgs" "joy_node" "teleop_twist_joy" "xacro")
+set(gvr_bot_BUILDTOOL_DEPENDS "catkin")

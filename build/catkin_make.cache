@@ -1,0 +1,2 @@
+gvr_bot
+-DCATKIN_DEVEL_PREFIX=/home/slacbot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/slacbot/catkin_ws/install -G Unix Makefiles
